@@ -1,105 +1,102 @@
-<h1 align="center">Hi there 👋, I'm Mohamed Hesham</h1>
-<h3 align="center">Ambitious Back-End Developer | Computer Science Student</h3>
+# Hi there 👋
+## Mohamed Hisham
+**Backend Developer | Computer Science Student**  
+📍 Location: Tanta, Gharbia, Egypt  
+📧 Email: [mh1351448@gmail.com](mailto:mh1351448@gmail.com)  
+🌐 Portfolio: [My Portfolio](https://mohamedasddf.github.io/portfolio/)  
+🐙 GitHub: [My GitHub](https://github.com/Mohamedasddf)  
+🔗 LinkedIn: [Mohamed Hisham LinkedIn](https://www.linkedin.com/in/mohamed-hesham-89800029b/)
+
+---
+
+## 💫 About Me
+I am an ambitious Backend Developer and a Computer Science student passionate about designing and implementing scalable, secure, and efficient backend systems. With expertise in Python, Django, and PostgreSQL, I specialize in building RESTful APIs, integrating authentication systems such as JWT, and managing databases effectively.
+
+I am committed to continuous learning, staying updated with the latest technologies, and leveraging my problem-solving skills to create innovative solutions. I’m also exploring cybersecurity alongside backend development to enhance application security and expand my technical knowledge.
+
+---
+
+## 💻 Technical Skills
 
 <p align="center">
-  📍 <strong>Location:</strong> Tanta, Gharbia, Egypt <br>
-  📧 <strong>Email:</strong> <a href="mailto:mh1351448@gmail.com">mh1351448@gmail.com</a> <br>
-  📞 <strong>Phone:</strong> 01013932585 <br>
-  🌐 <strong>Portfolio:</strong> <a href="https://mohamedasddf.github.io/portfolio/">My Portfolio</a> <br>
-  🐙 <strong>GitHub:</strong> <a href="https://github.com/Mohamedasddf">My GitHub</a> <br>
-  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mohamed-hesham-89800029b/">My LinkedIn</a>
+  <img src="https://img.shields.io/badge/Python-%2314354C?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-%23092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%234C1F24?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ---
 
-### 🌟 About Me
-I am an **ambitious Backend Developer** and a **Computer Science student** with a proven track record of designing and implementing scalable backend systems. My expertise includes:
-- **Proficient in:** Python, Django, PostgreSQL, and SQL.
-- **Experience in:** Developing RESTful APIs, integrating secure authentication methods (JWT, Token Authentication), and utilizing modern development tools like GitHub, Git, and Postman.
-- Dedicated to continuous learning, problem-solving, and delivering high-quality, efficient solutions.
-
----
-
-### 💻 Technical Skills
-
+## 📊 Activity Graph
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedasddf&theme=rogue" alt="Activity Graph">
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 🐍 Snake Animation
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedasddf&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedasddf&theme=radical" alt="GitHub Streak">
+  <img src="https://github.com/Mohamedasddf/Mohamedasddf/blob/output/snake.svg" alt="Snake Animation">
 </p>
 
 ---
 
-### 📊 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mohamedasddf&theme=rogue" alt="Activity Graph">
-</p>
-
----
-
-### 🐍 Snake Animation
-<p align="center">
-  <img src="https://github.com/Mohamedasddf/Mohamedasddf/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</p>
-
----
-
-### 📬 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-hesham-89800029b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Mohamedasddf" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:mh1351448@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://mohamedasddf.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
-  </a>
-</p>
-
----
-
-### 🎓 Education
+## 📝 Education
 **Bachelor of Computer Science**  
-**EELU University**, Tanta Branch  
-📅 2023 - Present | **Level:** 2nd Year  
+EELU University, Tanta Branch | 2023 - Present (2nd Year)
 
 ---
 
-### 🚀 Projects
-- **Library Management API**: Developed with Django and PostgreSQL, featuring JWT authentication and secure book management.  
-- **Meal Ordering System**: API for meal orders and ratings using Django and PostgreSQL.  
-- **Doctor Appointment Platform**: Appointment scheduling system integrated with PostgreSQL.  
-- **Educational Platform**: Online learning management system.  
-- **E-commerce Store**: Clothing store with PayPal payment gateway integration.  
+## 🚀 Projects
+
+### 1. **Library Management API**
+- Developed using Python and Django.
+- Implemented JWT-based authentication for secure access.
+- Utilized PostgreSQL for managing books, members, and loan transactions.
+
+### 2. **Meal Ordering and Rating System**
+- Created an API for ordering meals and leaving reviews.
+- Built using Django and PostgreSQL.
+
+### 3. **Doctor Appointment Booking Platform**
+- Designed an appointment scheduling system for doctors.
+- Integrated PostgreSQL and implemented a user-friendly interface for booking.
+
+### 4. **Educational Platform**
+- Developed an online learning platform with Django.
+- Integrated PostgreSQL for managing courses, teachers, and students.
+
+### 5. **E-commerce Clothing Store**
+- Built an e-commerce clothing store for online shopping.
+- Integrated PayPal for secure payments.
 
 ---
 
-### 🌍 Languages
-- **Arabic**: Native  
-- **English**: Intermediate  
+## 🧑‍💻 Professional Experience
+
+### **Freelance Backend Developer**  
+**May 2024 – Present**
+- Developed multiple backend systems using Python and Django.
+- Managed PostgreSQL databases and wrote complex SQL queries.
+- Implemented JWT authentication for secure user access.
 
 ---
 
-## ✨ Animation Under About Me
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=16A085&center=true&vCenter=true&width=435&lines=Backend+Developer;Problem+Solver;Restful+API+Specialist;Continuous+Learner" alt="Typing Animation">
-</p>
+## 🌍 Languages
+- **Arabic**: Native
+- **English**: Intermediate
+
+---
+
+## 📞 Contact Me
+Feel free to reach out via my email or check out my portfolio for more details about my work.
+
+---
+
+## 🔗 Links
+- [GitHub](https://github.com/Mohamedasddf)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-hesham-89800029b/)
+- [Portfolio](https://mohamedasddf.github.io/portfolio/)
 
