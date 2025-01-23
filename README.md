@@ -1,17 +1,22 @@
-<h1 align="center">Hi there 👋, I'm Mohamed Hisham</h1>
-<h3 align="center">Backend Developer | Computer Science Student</h3>
+<h1 align="center">Hi there 👋, I'm Mohamed Hesham</h1>
+<h3 align="center">Ambitious Back-End Developer | Computer Science Student</h3>
 
-📍 **Location:** Tanta, Gharbia, Egypt  
-📧 **Email:** [mh1351448@gmail.com](mailto:mh1351448@gmail.com)  
-🌐 **Portfolio:** [My Portfolio](https://mohamedasddf.github.io/portfolio/)  
-🐙 **GitHub:** [My GitHub](https://github.com/Mohamedasddf)  
+<p align="center">
+  📍 <strong>Location:</strong> Tanta, Gharbia, Egypt <br>
+  📧 <strong>Email:</strong> <a href="mailto:mh1351448@gmail.com">mh1351448@gmail.com</a> <br>
+  📞 <strong>Phone:</strong> 01013932585 <br>
+  🌐 <strong>Portfolio:</strong> <a href="https://mohamedasddf.github.io/portfolio/">My Portfolio</a> <br>
+  🐙 <strong>GitHub:</strong> <a href="https://github.com/Mohamedasddf">My GitHub</a> <br>
+  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mohamed-hesham-89800029b/">My LinkedIn</a>
+</p>
 
 ---
 
-## 💫 About Me
-I am an ambitious Backend Developer and a Computer Science student passionate about designing and implementing scalable, secure, and efficient backend systems. With expertise in Python, Django, and PostgreSQL, I specialize in building RESTful APIs, integrating authentication systems such as JWT, and managing databases effectively.
-
-I am committed to continuous learning, staying updated with the latest technologies, and leveraging my problem-solving skills to create innovative solutions. I’m also exploring cybersecurity alongside backend development to enhance application security and expand my technical knowledge.
+## 💡 Summary
+I am an **ambitious Backend Developer** and a **Computer Science student** with a proven track record of designing and implementing scalable backend systems. My expertise includes:
+- **Proficient in:** Python, Django, PostgreSQL, and SQL.
+- **Experience in:** Developing RESTful APIs, integrating secure authentication methods (JWT, Token Authentication), and utilizing modern development tools like GitHub, Git, and Postman.
+- Dedicated to continuous learning, problem-solving, and delivering high-quality, efficient solutions.
 
 ---
 
@@ -20,39 +25,70 @@ I am committed to continuous learning, staying updated with the latest technolog
 - **Frameworks:** Django, Django REST Framework
 - **Databases:** PostgreSQL
 - **Authentication:** JWT, Token Authentication
-- **Development Tools:** GitHub, Git, Postman, Heroku
-- **Other Skills:** API Development, SQL, Problem Solving, OOP
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedasddf&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedasddf&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mohamedasddf&theme=radical" alt="Activity Graph" />
-</p>
-
----
-
-## 🐍 Snake Animation
-<p align="center">
-  <img src="https://github.com/Mohamedasddf/Mohamedasddf/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+- **Development & Deployment Tools:** GitHub, Git, Postman, Heroku (App Deployment)
+- **Operating Systems:** Windows
+- **Other Skills:** 
+  - Object-Oriented Programming (OOP)
+  - SQL Query Language
+  - API Testing
+  - Team Collaboration
+  - Problem Solving
 
 ---
 
 ## 🎓 Education
 **Bachelor of Computer Science**  
-EELU University, Tanta Branch | 2023 - Present (2nd Year)
+**EELU University**, Tanta Branch  
+📅 2023 - Present | **Level:** 2nd Year  
+
+---
+
+## 🚀 Projects
+### 1. **Library Management API**
+- Developed using Python and Django.
+- Implemented **JWT-based authentication** for secure access.
+- Utilized **PostgreSQL** for managing books, members, and loan transactions.
+- Features include tracking book availability, loan transactions, and due dates.
+
+### 2. **Meal Ordering and Rating System**
+- API for ordering meals and leaving reviews.
+- Built with Django and PostgreSQL.
+
+### 3. **Doctor Appointment Booking Platform**
+- Designed a complete appointment scheduling system for doctors.
+- Integrated PostgreSQL for efficient data handling.
+- User-friendly interface for seamless appointment booking.
+
+### 4. **Educational Platform**
+- Developed an online learning platform with features for managing courses, teachers, and students.
+- Integrated PostgreSQL for data management.
+
+### 5. **E-commerce Clothing Store**
+- Built an e-commerce platform for selling clothes.
+- Integrated **PayPal** for secure payment processing.
+
+---
+
+## 💼 Professional Experience
+**Freelance Backend Developer**  
+📅 May 2024 – Present  
+- Developed multiple backend systems using **Python** and **Django**.
+- Managed **PostgreSQL databases**, wrote complex SQL queries, and integrated external APIs.
+- Implemented **JWT authentication** for secure user access.
+
+---
+
+## 🌍 Languages
+- **Arabic:** Native  
+- **English:** Intermediate  
 
 ---
 
 ## 📬 Contact Me
-If you’re interested in collaborating or have any inquiries, feel free to reach out via my email or check out my portfolio.
+Feel free to reach out if you're interested in collaborating, have a project in mind, or just want to connect!  
+- **Email:** [mh1351448@gmail.com](mailto:mh1351448@gmail.com)  
+- **Portfolio:** [My Portfolio](https://mohamedasddf.github.io/portfolio/)  
+- **GitHub:** [My GitHub](https://github.com/Mohamedasddf)  
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/mohamed-hesham-89800029b/)  
+
 
