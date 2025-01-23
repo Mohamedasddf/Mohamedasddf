@@ -1,223 +1,112 @@
-<!DOCTYPE html>
-<html lang="en">
+<h1 align="center">Hi there 👋, I'm Mohamed Hesham</h1>
+<h3 align="center">Ambitious Backend Developer | Computer Science Student</h3>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mohamed Hesham's Portfolio</title>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
-    <style>
-        /* General Styles */
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-        }
+<p align="center">
+  📍 <strong>Location:</strong> Tanta, Gharbia, Egypt <br>
+  📧 <strong>Email:</strong> <a href="mailto:mh1351448@gmail.com">mh1351448@gmail.com</a> <br>
+  📞 <strong>Phone:</strong> 01013932585 <br>
+  🌐 <strong>Portfolio:</strong> <a href="https://mohamedasddf.github.io/portfolio/">My Portfolio</a> <br>
+  🐙 <strong>GitHub:</strong> <a href="https://github.com/Mohamedasddf">My GitHub</a> <br>
+  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mohamed-hesham-89800029b/">My LinkedIn</a>
+</p>
 
-        h1, h3, p, .skills-container {
-            text-align: center;
-        }
+---
 
-        /* Skill container */
-        .skills-container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 30px;
-            margin-top: 20px;
-        }
+### 🌟 About Me
 
-        .skill-item {
-            text-align: center;
-            font-size: 40px;
-            padding: 20px;
-            border-radius: 10px;
-            background-color: #fff;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s ease, opacity 0.3s ease;
-            opacity: 0;
-            transform: translateY(50px);
-            animation: fadeInUp 1s ease-out forwards;
-        }
+I am an **ambitious Backend Developer** and a **Computer Science student** with a proven track record in designing and implementing scalable backend systems. My expertise includes:
 
-        /* Delay each skill item */
-        .skill-item:nth-child(1) {
-            animation-delay: 0.2s;
-        }
+- **Proficient in**: Python, Django, PostgreSQL, and SQL.
+- **Experience in**: Developing RESTful APIs, integrating secure authentication methods (JWT, Token Authentication), and utilizing modern development tools like GitHub, Git, and Postman.
+- Committed to **continuous learning**, **problem-solving**, and delivering **high-quality, efficient solutions**.
 
-        .skill-item:nth-child(2) {
-            animation-delay: 0.4s;
-        }
+---
 
-        .skill-item:nth-child(3) {
-            animation-delay: 0.6s;
-        }
+### 💻 Technical Skills
 
-        .skill-item:nth-child(4) {
-            animation-delay: 0.8s;
-        }
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/Token%20Authentication-000000?style=for-the-badge&logo=keycloak&logoColor=white" alt="Token Authentication">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+</p>
 
-        .skill-item:nth-child(5) {
-            animation-delay: 1s;
-        }
+<p align="center">
+  <span>Other Skills:</span>
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-000000?style=for-the-badge&logo=java&logoColor=white" alt="OOP">
+  <img src="https://img.shields.io/badge/SQL%20Query-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Query Language">
+  <img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API Testing">
+  <img src="https://img.shields.io/badge/Team%20Collaboration-4C1D36?style=for-the-badge&logo=slack&logoColor=white" alt="Team Collaboration">
+  <img src="https://img.shields.io/badge/Problem%20Solving-000000?style=for-the-badge&logo=code&logoColor=white" alt="Problem Solving">
+</p>
 
-        .skill-item:nth-child(6) {
-            animation-delay: 1.2s;
-        }
+---
 
-        .skill-item:nth-child(7) {
-            animation-delay: 1.4s;
-        }
+### 📈 GitHub Stats
 
-        /* Keyframe Animation */
-        @keyframes fadeInUp {
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedasddf&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedasddf&theme=radical" alt="GitHub Streak">
+</p>
 
-        /* Skill icon hover effect */
-        .skill-item:hover {
-            transform: scale(1.1);
-            opacity: 0.8;
-        }
+---
 
-        .badge {
-            display: inline-block;
-            padding: 10px 20px;
-            border-radius: 10px;
-            color: #fff;
-            margin: 10px;
-            font-size: 18px;
-        }
-        
-        .badge.python { background-color: #3776AB; }
-        .badge.django { background-color: #092E20; }
-        .badge.postgresql { background-color: #316192; }
-        .badge.html { background-color: #E34F26; }
-        .badge.css { background-color: #1572B6; }
-        .badge.git { background-color: #F05032; }
-        .badge.github { background-color: #181717; }
-        .badge.postman { background-color: #FF6C37; }
+### ✨ My Journey
 
-        /* Links */
-        a {
-            color: #0366d6;
-            text-decoration: none;
-        }
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=16A085&center=true&vCenter=true&width=435&lines=Backend+Developer;Problem+Solver;Restful+API+Specialist;Continuous+Learner;Python+Expert;Django+Master;SQL+Guru;JWT+Authentication+Pro" alt="Typing Animation">
+</p>
 
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
+---
 
-<body>
-    <h1 align="center">Hi there 👋, I'm Mohamed Hesham</h1>
-    <h3 align="center">Ambitious Backend Developer | Computer Science Student</h3>
+### 📬 Connect With Me
 
-    <p align="center">
-        📍 <strong>Location:</strong> Tanta, Gharbia, Egypt <br>
-        📧 <strong>Email:</strong> <a href="mailto:mh1351448@gmail.com">mh1351448@gmail.com</a> <br>
-        📞 <strong>Phone:</strong> 01013932585 <br>
-        🌐 <strong>Portfolio:</strong> <a href="https://mohamedasddf.github.io/portfolio/">My Portfolio</a> <br>
-        🐙 <strong>GitHub:</strong> <a href="https://github.com/Mohamedasddf">My GitHub</a> <br>
-        🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mohamed-hesham-89800029b/">My LinkedIn</a>
-    </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-hesham-89800029b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Mohamedasddf" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:mh1351448@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://mohamedasddf.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
-    <hr>
+---
 
-    <h3>🌟 About Me</h3>
-    <p>
-        I am an **ambitious Backend Developer** and a **Computer Science student** with a proven track record in designing and implementing scalable backend systems. My expertise includes:
-    </p>
-    <ul>
-        <li><strong>Proficient in:</strong> Python, Django, PostgreSQL, and SQL.</li>
-        <li><strong>Experience in:</strong> Developing RESTful APIs, integrating secure authentication methods (JWT, Token Authentication), and utilizing modern development tools like GitHub, Git, and Postman.</li>
-        <li>Committed to **continuous learning**, **problem-solving**, and delivering **high-quality, efficient solutions**.</li>
-    </ul>
+### 🎓 Education
 
-    <hr>
+**Bachelor of Computer Science**  
+**EELU University**, Tanta Branch  
+📅 2023 - Present | **Level**: 2nd Year
 
-    <h3>💻 Technical Skills</h3>
-    <div class="skills-container">
-        <div class="skill-item">
-            <i class="fab fa-python"></i>
-            <p>Python</p>
-        </div>
-        <div class="skill-item">
-            <i class="fab fa-django"></i>
-            <p>Django</p>
-        </div>
-        <div class="skill-item">
-            <i class="fas fa-database"></i>
-            <p>PostgreSQL</p>
-        </div>
-        <div class="skill-item">
-            <i class="fab fa-html5"></i>
-            <p>HTML5</p>
-        </div>
-        <div class="skill-item">
-            <i class="fab fa-css3-alt"></i>
-            <p>CSS3</p>
-        </div>
-        <div class="skill-item">
-            <i class="fab fa-git"></i>
-            <p>Git</p>
-        </div>
-        <div class="skill-item">
-            <i class="fab fa-github"></i>
-            <p>GitHub</p>
-        </div>
-        <div class="skill-item">
-            <i class="fab fa-postman"></i>
-            <p>Postman</p>
-        </div>
-    </div>
+---
 
-    <hr>
+### 🚀 Projects
 
-    <h3>📈 GitHub Stats</h3>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mohamedasddf&show_icons=true&theme=radical" alt="GitHub Stats">
-        <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedasddf&theme=radical" alt="GitHub Streak">
-    </p>
+- **Library Management API**: Developed with Django and PostgreSQL, featuring JWT authentication and secure book management.
+- **Meal Ordering System**: API for meal orders and ratings using Django and PostgreSQL.
+- **Doctor Appointment Platform**: Appointment scheduling system integrated with PostgreSQL.
+- **Educational Platform**: Online learning management system.
+- **E-commerce Store**: Clothing store with PayPal payment gateway integration.
 
-    <hr>
+---
 
-    <h3>✨ My Journey</h3>
-    <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=16A085&center=true&vCenter=true&width=435&lines=Backend+Developer;Problem+Solver;Restful+API+Specialist;Continuous+Learner" alt="Typing Animation">
-    </p>
+### 🌍 Languages
 
-    <hr>
-
-    <h3>📬 Connect With Me</h3>
-    <p align="center">
-        <a href="https://www.linkedin.com/in/mohamed-hesham-89800029b/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-        <a href="https://github.com/Mohamedasddf" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        </a>
-        <a href="mailto:mh1351448@gmail.com" target="_blank">
-            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-        </a>
-        <a href="https://mohamedasddf.github.io/portfolio/" target="_blank">
-            <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
-        </a>
-    </p>
-
-    <hr>
-
-    <h3>🎓 Education</h3>
-    <p>
-        **Bachelor of Computer Science** <br>
-        EELU University (Expected Graduation: 2026)
-    </p>
-</body>
-
-</html>
+- **Arabic**: Native
+- **English**: Intermediate
