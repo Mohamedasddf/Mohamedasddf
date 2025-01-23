@@ -44,16 +44,9 @@ I am an **ambitious Backend Developer** and a **Computer Science student** with 
 
 ---
 
-### 📊 Activity Graph
+### ✨ Animation Under About Me
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mohamedasddf&theme=rogue" alt="Activity Graph">
-</p>
-
----
-
-### 🐍 Snake Animation
-<p align="center">
-  <img src="https://github.com/Mohamedasddf/Mohamedasddf/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=16A085&center=true&vCenter=true&width=435&lines=Backend+Developer;Problem+Solver;Restful+API+Specialist;Continuous+Learner" alt="Typing Animation">
 </p>
 
 
@@ -99,7 +92,3 @@ I am an **ambitious Backend Developer** and a **Computer Science student** with 
 
 ---
 
-## ✨ Animation Under About Me
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=16A085&center=true&vCenter=true&width=435&lines=Backend+Developer;Problem+Solver;Restful+API+Specialist;Continuous+Learner" alt="Typing Animation">
-</p>
