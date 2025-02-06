@@ -16,7 +16,7 @@
 
 I am an **ambitious Backend Developer** and a **Computer Science student** with a proven track record in designing and implementing scalable backend systems. My expertise includes:
 
-- **Proficient in**: Python, Django, PostgreSQL, and SQL.
+- **Proficient in**: Javascript, Python, Django, PostgreSQL, and SQL.
 - **Experience in**: Developing RESTful APIs, integrating secure authentication methods (JWT, Token Authentication), and utilizing modern development tools like GitHub, Git, and Postman.
 - Committed to **continuous learning**, **problem-solving**, and delivering **high-quality, efficient solutions**.
 
@@ -25,6 +25,7 @@ I am an **ambitious Backend Developer** and a **Computer Science student** with 
 ### 💻 Technical Skills
 
 <p align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
