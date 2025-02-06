@@ -57,7 +57,7 @@ I am an **ambitious Backend Developer** and a **Computer Science student** with 
 ### ✨ My Journey
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=16A085&center=true&vCenter=true&width=435&lines=Backend+Developer;Problem+Solver;Restful+API+Specialist;Continuous+Learner;Python+Expert;Django+Master;SQL+Guru;JWT+Authentication+Pro" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=16A085&center=true&vCenter=true&width=435&lines=Backend+Developer;Problem+Solver;Restful+API+Specialist;Continuous+Learner;Javascript;Python+Expert;Django+Master;SQL+Guru;JWT+Authentication+Pro" alt="Typing Animation">
 </p>
 
 ---
