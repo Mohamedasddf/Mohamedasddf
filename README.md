@@ -39,8 +39,7 @@ efficiency in backend development.
   <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT">
-  <img src="https://img.shields.io/badge/OAuth-1A237E?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth">
-  <img src="https://img.shields.io/badge/Token%20Auth-FF6F00?style=for-the-badge&logo=security&logoColor=white" alt="Token Authentication">
+  <img src="https://img.shields.io/badge/OAuth-1A237E?style=for-the-badge&logo=key&logoColor=white" alt="OAuth">
   <img src="https://img.shields.io/badge/Token%20Authentication-000000?style=for-the-badge&logo=keycloak&logoColor=white" alt="Token Authentication">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
