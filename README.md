@@ -8,23 +8,29 @@
   🌐 <strong>Portfolio:</strong> <a href="https://mohamedasddf.github.io/portfolio/">My Portfolio</a> <br>
   🐙 <strong>GitHub:</strong> <a href="https://github.com/Mohamedasddf">My GitHub</a> <br>
   🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mohamed-hesham-89800029b/">My LinkedIn</a>
+  🔗 <strong>CV:</strong> <a href="https://drive.google.com/file/d/1Fqb8HiCi-hpsFEMeLs5AVLbLxh1G4S0d/view?usp=drive_link" target="_blank">My CV</a>  
 </p>
 
 ---
 
 ### 🌟 About Me
 
-I am an **ambitious Backend Developer** and a **Computer Science student** with a proven track record in designing and implementing scalable backend systems. My expertise includes:
-
-- **Proficient in**: Javascript, Python, Django, PostgreSQL, and SQL.
-- **Experience in**: Developing RESTful APIs, integrating secure authentication methods (JWT, Token Authentication), and utilizing modern development tools like GitHub, Git, and Postman.
-- Committed to **continuous learning**, **problem-solving**, and delivering **high-quality, efficient solutions**.
+Backend Developer and Computer Science student with strong expertise in designing
+and implementing scalable backend architectures. Experienced in building and
+optimizing backend systems, developing efficient and secure APIs, and implementing
+robust authentication and authorization mechanisms. Proficient in database
+management, ensuring data integrity, and enhancing system performance. Skilled in
+integrating third-party services, and maintaining high standards of security and
+efficiency in backend development.
 
 ---
 
 ### 💻 Technical Skills
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -56,9 +62,7 @@ I am an **ambitious Backend Developer** and a **Computer Science student** with 
 
 ### ✨ My Journey
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=16A085&center=true&vCenter=true&width=435&lines=Backend+Developer;Problem+Solver;Restful+API+Specialist;Continuous+Learner;Javascript;Python+Expert;Django+Master;SQL+Guru;JWT+Authentication+Pro" alt="Typing Animation">
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=16A085&center=true&vCenter=true&width=500&lines=Backend+Developer;Problem+Solver;Restful+API+Specialist;Continuous+Learner;JavaScript+%26+Node.js;Python+Expert;Django+Master;Express.js+Developer;SQL+Guru;JWT+Authentication+Pro" alt="Typing Animation"> </p>
 
 ---
 
@@ -86,16 +90,6 @@ I am an **ambitious Backend Developer** and a **Computer Science student** with 
 **Bachelor of Computer Science**  
 **EELU University**, Tanta Branch  
 📅 2023 - Present | **Level**: 2nd Year
-
----
-
-### 🚀 Projects
-
-- **Library Management API**: Developed with Django and PostgreSQL, featuring JWT authentication and secure book management.
-- **Meal Ordering System**: API for meal orders and ratings using Django and PostgreSQL.
-- **Doctor Appointment Platform**: Appointment scheduling system integrated with PostgreSQL.
-- **Educational Platform**: Online learning management system.
-- **E-commerce Store**: Clothing store with PayPal payment gateway integration.
 
 ---
 
